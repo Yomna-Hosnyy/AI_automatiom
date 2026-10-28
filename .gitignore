@@ -1,0 +1,9 @@
+# Personal OAuth Tokens - NEVER share or commit this file!
+token.json
+
+# Python cache & environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env.local
